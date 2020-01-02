@@ -1,12 +1,10 @@
-<html>
-  <head>
+
     <style>
       .box{
       border:2px solid #000;
       }
       </style>
-      </head>
-      </html>
+
 # AutoSaving-TextBox-Control
 custom autosaving textbox control for Visual Studio.
 <div class="box">
