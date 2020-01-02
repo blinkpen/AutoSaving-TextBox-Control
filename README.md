@@ -1,9 +1,9 @@
 
-    <style>
+
       .box{
       border:2px solid #000;
       }
-      </style>
+
 
 # AutoSaving-TextBox-Control
 custom autosaving textbox control for Visual Studio.
